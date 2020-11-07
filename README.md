@@ -54,7 +54,9 @@ Unser Angebot richtet sich in erster Linie an Privatpersonen und kleine Unterneh
 
 ### Preise
 
-Unsere Abrechnung richtet sich nach dem tatsächlichen Aufwand. Der reguläre Stundensatz beträgt 90,- EUR. Die erste Stunde wird immer komplett angerechnet und ist als Vorauszahlung zu leisten. Darüberhinaus runden wir unseren Aufwand halbstündlich auf und stellen diesen abschließend in Rechnung. *Für Unternehmen gelten abweichende Konditionen!*
+Unsere Abrechnung richtet sich nach dem tatsächlichen Aufwand. Der reguläre Stundensatz beträgt 90,- EUR. Die erste Stunde wird immer komplett angerechnet und ist als Vorauszahlung zu leisten. Darüberhinaus runden wir unseren Aufwand halbstündlich auf und stellen diesen abschließend in Rechnung.
+
+*Für Unternehmen gelten abweichende Konditionen!*
 
 Kleinere Angelegenheiten, wie z.B. eine Kündigung, sind in der Regel innerhalb einer Stunde erledigt. Somit wird der einmalige Stundensatz nicht überschritten. Dauert die Bearbeitung jedoch länger als eine Stunde - z.B. 75 Minuten - dann berechnen wir 135,- EUR (1 Stunde + 30 Minuten). Davon fallen 90€ sogleich bei Auftragserteilung an. Die übrigen 45€ werden erst mit der Schlussrechnung, nach Übergabe unserer Arbeit, fällig.
 
