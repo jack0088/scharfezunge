@@ -74,4 +74,4 @@ In beiden Fällen verwirkt Ihr Anspruch auf alle geistigen, elektronischen und m
 2. Wir melden uns bei Ihnen und besprechen das weitere Vorgehen.
 3. Für eine Auftragserteilung, müssen Sie einen Betrag im Wert eines Stundensatzes per Vorkasse leisten.
 4. Im ständigen Austausch mit Ihnen, führen wir den Auftrag aus.
-5. Nach Ihrer finalen Freigabe, fassen wir etwaige zusätzlichen Aufwände in einer Schlussrechnung zusammen, die von Ihnen zu begleichen ist. Sollten Sie keine Freigabe erteilen, so leiten wir Nacharbeit. Sollten Sie unzufrieden sein, so brechen wir den Auftrag ab und Sie erhalten eine Gutschrift.
+5. Nach Ihrer finalen Freigabe, fassen wir etwaige zusätzlichen Aufwände in einer Schlussrechnung zusammen, die von Ihnen zu begleichen ist. Sollten Sie keine Freigabe erteilen, so leisten wir Nacharbeit. Sollten Sie unzufrieden sein, so brechen wir den Auftrag ab und Sie erhalten eine Gutschrift.
