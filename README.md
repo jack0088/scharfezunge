@@ -17,7 +17,7 @@ Durch meine prägenden Erfahrungen verstehe ich den Wert von Kommunikation und d
 
 ### Unsere Aufgabe und Mission
 
-Wir verstehen uns als Dienstleister. **Wir Ihnen helfen Ihnen, Ihre Schriftwechsel auf Augenhöhe zu führen!** Gemeinsam ordnen wir Ihre Gedanken und bringen sie in angemessener Form zu Papier. Ihre Zufriedenheit und der Erfolg Ihrer Angelegenheit haben für uns oberste Priorität. - **100% Geld-Zurück Garantie**, falls wir Sie nicht überzeugen können!
+Wir verstehen uns als Dienstleister. Wir Ihnen helfen Ihnen, Ihre Schriftwechsel auf Augenhöhe zu führen! Gemeinsam ordnen wir Ihre Gedanken und bringen sie in angemessener Form zu Papier. Ihre Zufriedenheit und der Erfolg Ihrer Angelegenheit haben für uns oberste Priorität. - **100% Geld-Zurück Garantie**, falls wir Sie nicht überzeugen können!
 
 
 ### Das bieten wir Ihnen an
