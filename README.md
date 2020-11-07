@@ -70,7 +70,7 @@ In beiden Fällen verwirkt Ihr Anspruch auf alle geistigen, elektronischen und m
 
 ### Auftragsabwicklung
 
-1. [Nehmen Sie Kontakt zu uns auf.](mailto:jack0088@me.com) Schildern Sie Ihr Anliegen. Gerne dürfen Sie auch Dokumente anhängen, die Ihr Problem zu verdeutlichen.
+1. [Nehmen Sie Kontakt zu uns auf.](mailto:jack0088@me.com) Schildern Sie Ihr Anliegen. Gerne dürfen Sie auch Dokumente anhängen, die Ihr Problem verdeutlichen.
 2. Wir melden uns bei Ihnen und besprechen das weitere Vorgehen.
 3. Für eine Auftragserteilung, müssen Sie einen Betrag im Wert eines Stundensatzes per Vorkasse leisten.
 4. Im ständigen Austausch mit Ihnen, führen wir den Auftrag aus.
