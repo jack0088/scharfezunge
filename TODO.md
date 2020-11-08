@@ -1,0 +1,7 @@
+- wcag a11y validation
+- google analytics
+- in google index aufnehmen (anmeldung, crawl, sitemap, etc)
+- impressum, datenschutz
+- cookie consent
+- externes kontaktformular inkl. dateianhänge
+- (optional) externer live-chat
