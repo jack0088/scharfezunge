@@ -34,7 +34,11 @@ h1 {
 }
 
 .gh-blue {
-    color: rgb(57, 71, 150);
+    color: rgb(73, 183, 240);
+}
+
+.gh-red {
+    color:  rgb(255, 87, 51);
 }
 
 
@@ -58,12 +62,18 @@ h1 {
 
 
 
-.gh-maxwidth {
-    max-width: 60%;
-}
-
 .gh-fullwidth {
     width: 100%;
+}
+
+.gh-pagewidth {
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 800px) {
+    .gh-pagewidth {
+        max-width: 75%;
+    }
 }
 
 
@@ -95,8 +105,13 @@ h1 {
 }
 
 .gh-box3d-blue {
-    outline-color: rgb(57, 71, 150);
-    box-shadow: -8px 8px 0px 0px rgb(57, 71, 150);
+    outline-color: rgb(73, 183, 240);
+    box-shadow: -8px 8px 0px 0px rgb(73, 183, 240);
+}
+
+.gh-box3d-red {
+    outline-color: rgb(255, 87, 51);
+    box-shadow: -8px 8px 0px 0px rgb(255, 87, 51);
 }
 
 
@@ -138,13 +153,13 @@ h1 {
 .gh-hyperlink:hover,
 a.gh-box3d:hover,
 button.gh-box3d:hover {
-    color: rgb(57, 71, 150);
+    color: rgb(73, 183, 240);
 }
 
 a.gh-box3d:hover,
 button.gh-box3d:hover {
-    outline-color: rgb(57, 71, 150);
-    box-shadow: -4px 4px 0px 0px rgb(57, 71, 150);
+    outline-color: rgb(73, 183, 240);
+    box-shadow: -4px 4px 0px 0px rgb(73, 183, 240);
     position: relative;
     left: -4px;
     bottom: -4px;
