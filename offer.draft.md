@@ -1,6 +1,6 @@
 # www.scharfezunge.de
 
-**Haben Sie Probleme bei Ihrer Korrespondenz? Wir verleihen Ihren Briefen, Widersprüchen, Anträgen und E-Mails den nötigen Nachdruck und die passende Würze! Mit uns, führen Sie Ihre Schriftwechsel auf Augenhöhe.**
+## Haben Sie Probleme bei Ihrer Korrespondenz? Wir verleihen Ihren Briefen, Widersprüchen, Anträgen und E-Mails den nötigen Nachdruck und die passende Würze! Mit uns, führen Sie Ihre Schriftwechsel auf Augenhöhe.
 
 
 ### Was bedeutet "scharfe Zunge"?
@@ -75,3 +75,6 @@ In beiden Fällen verwirkt Ihr Anspruch auf alle geistigen, elektronischen und m
 3. Für eine Auftragserteilung, müssen Sie einen Betrag im Wert eines Stundensatzes per Vorkasse leisten.
 4. Im ständigen Austausch mit Ihnen, führen wir den Auftrag aus.
 5. Nach Ihrer finalen Freigabe, fassen wir etwaige zusätzlichen Aufwände in einer Schlussrechnung zusammen, die von Ihnen zu begleichen ist. Sollten Sie keine Freigabe erteilen, so leisten wir Nacharbeit. Sollten Sie unzufrieden sein, so brechen wir den Auftrag ab und Sie erhalten eine Gutschrift.
+
+
+## Sie möchten ein Beispiel unserer Arbeit? Kein Problem.

@@ -66,6 +66,14 @@ h1 {
     width: 100%;
 }
 
+.gh-thirdwidth {
+    width: 75%;
+}
+
+.gh-halfwidth {
+    width: 50%;
+}
+
 .gh-pagewidth {
     max-width: 100%;
 }
