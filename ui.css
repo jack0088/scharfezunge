@@ -29,6 +29,10 @@ h1 {
     margin-right: auto;
 }
 
+.gh-centered-text {
+    text-align: center;
+}
+
 .gh-black {
     color: black;
 }
@@ -39,6 +43,13 @@ h1 {
 
 .gh-red {
     color:  rgb(255, 87, 51);
+}
+
+
+
+.gh-censored {
+    background-color: black;
+    color: black;
 }
 
 
