@@ -10,7 +10,7 @@ Es ist eine umgangssprachliche [Redensart](https://www.redensarten-index.de/such
 
 ### Wer wir sind und warum es uns gibt
 
-Die Idee zu diesem Service entstand aus persönlichem Bedürfnis heraus. Ich heiße Alexander Schäfer und war Spätaussiedler. Mit meiner Familie, die tiefe deutsche Wurzeln hat, kam ich 1999 nach Deutschland. Obwohl wir uns die größte Mühe gaben, uns anzupassen und zu integrieren, hatten wir Anfangs große Probleme uns einzufinden. Wegen der Sprachbarieren stießen wir oft auf taube Ohren, Spott, Missachtung und auf jede Menge Vorurteile. Der behördliche Schriftwechsel war dabei immer eine besondere Herausforderung! Seither sind über zwanzig Jahre vergangen und wir haben unseren Platz in Deutschland gefunden.
+Die Idee zu diesem Service entstand aus persönlichem Bedürfnis heraus. Mit meiner Familie, die tiefe deutsche Wurzeln hat, kam ich 1999 nach Deutschland. Obwohl wir uns die größte Mühe gaben, uns anzupassen und zu integrieren, hatten wir Anfangs große Probleme uns einzufinden. Wegen der Sprachbarieren stießen wir oft auf taube Ohren, Spott, Missachtung und auf jede Menge Vorurteile. Der behördliche Schriftwechsel war dabei immer eine besondere Herausforderung! Seither sind über zwanzig Jahre vergangen und wir haben unseren Platz in Deutschland gefunden.
 
 Durch meine prägenden Erfahrungen verstehe ich den Wert von Kommunikation und die Möglichkeiten sowie Probleme, die sich daraus ergeben, so gut, wie kein anderer. Auf die richtige Wortwahl und Ausdrucksweise kommt es an. Der Ton spielt die Musik, wie man so schön sagt. Das habe es selbst unzählige Male erlebt. Es ist mir daher ein besonderes Anliegen, den Menschen, die nicht für sich selbst sprechen können, eine ausdrucksstarke und kräftige Stimme zu geben.
 
