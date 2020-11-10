@@ -1,7 +1,5 @@
 - wcag a11y validation
-- google analytics
-- in google index aufnehmen (anmeldung, crawl, sitemap, etc)
-- impressum, datenschutz
-- cookie consent
+- cookie consent (z.B. für google analytics)
+- impressum, datenschutz, datenverarbeitung
 - externes kontaktformular inkl. dateianhänge
-- (optional) externer live-chat
+- (optional) externer live-chat für fragen
