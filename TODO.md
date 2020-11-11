@@ -1,7 +1,7 @@
 - wcag a11y validation
 - cookie consent (z.B. für google analytics)
 - impressum, datenschutz, datenverarbeitung
-- externes kontaktformular inkl. dateianhänge
+- externes kontaktformular inkl. dateianhänge (https://mailthis.to/documentation.html)
 - instagram card via meta tags implementieren
 - bessere twitter, fb, insta card preview bilder (imagebild?)
 - (optional) externer live-chat für fragen
