@@ -38,7 +38,7 @@ h1 {
 }
 
 .gh-blue {
-    color: rgb(73, 183, 240);
+    color: rgb(0, 100, 165);
 }
 
 .gh-red {
@@ -124,8 +124,8 @@ h1 {
 }
 
 .gh-box3d-blue {
-    outline-color: rgb(73, 183, 240);
-    box-shadow: -8px 8px 0px 0px rgb(73, 183, 240);
+    outline-color: rgb(0, 100, 165);
+    box-shadow: -8px 8px 0px 0px rgb(0, 100, 165);
 }
 
 .gh-box3d-red {
@@ -173,18 +173,20 @@ h1 {
 a.gh-box3d:hover,
 button.gh-box3d:hover
 input[type=submit]:hover {
-    color: rgb(73, 183, 240);
+    color: rgb(0, 100, 165);
 }
 
 a.gh-box3d:hover,
 button.gh-box3d:hover,
 input[type=submit]:hover {
-    outline-color: rgb(73, 183, 240);
-    box-shadow: -4px 4px 0px 0px rgb(73, 183, 240);
+    outline-color: rgb(0, 100, 165);
+    box-shadow: -4px 4px 0px 0px rgb(0, 100, 165);
     position: relative;
     left: -4px;
     bottom: -4px;
 }
+
+
 
 .gh-form > * {
     display: block;
@@ -195,4 +197,14 @@ input[type=submit]:hover {
 .gh-form > textarea {
     height: 200px;
     max-height: 600px;
+}
+
+.gh-form > input::placeholder,
+.gh-form > textarea::placeholder {
+    color: rgb(0, 100, 165);
+}
+
+.gh-form > input:focus::placeholder,
+.gh-form > textarea:focus::placeholder {
+    color: transparent;
 }
