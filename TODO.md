@@ -1,6 +1,5 @@
 - wcag a11y validation
 - cookie consent
 - impressum, datenschutz, datenverarbeitung
-- instagram card via meta tags implementieren
 - bessere cards preview bilder (imagebild?) für twitter, fb, insta
 - live-chat für fragen
