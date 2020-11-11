@@ -49,7 +49,7 @@
 
         <article class="gh-grid-double gh-box3d">
             <h3 class="gh-title">Das bieten wir Ihnen an</h3>
-            <p>Es gibt unz&auml;hlige M&ouml;glichkeiten, wie wir uns gewinnbringend f&uuml;r Sie einsetzen k&ouml;nnen. Wir stehen Ihnen bei vielen Themen beratend oder exekutiv zur Seite. <a href="mailto:jack0088@me.com" class="gh-hyperlink">Schreiben Sie uns gern mit Ihrem Anliegen an</a>, ganz unverbindlich.</p>
+            <p>Es gibt unz&auml;hlige M&ouml;glichkeiten, wie wir uns gewinnbringend f&uuml;r Sie einsetzen k&ouml;nnen. Wir stehen Ihnen bei vielen Themen beratend oder exekutiv zur Seite. <a href="#auftrag" class="gh-hyperlink">Schreiben Sie uns gern mit Ihrem Anliegen an</a>, ganz unverbindlich.</p>
             <ul>
                 <li>Wir formulieren Ihren <b>Antrag</b></li>
                 <li>Wir schreiben Ihre <b>K&uuml;ndigung</b></li>
@@ -95,13 +95,26 @@
         </article>
 
         <article class="gh-grid-double gh-box3d">
-            <h3 class="gh-title">Auftragsabwicklung</h3>
+            <h3 id="auftrag" class="gh-title">Auftragsabwicklung</h3>
             <ol>
-                <li><a href="mailto:jack0088@me.com" class="gh-hyperlink">Nehmen Sie Kontakt zu uns auf.</a> Schildern Sie Ihr Anliegen. Gerne d&uuml;rfen Sie auch Dokumente anh&auml;ngen, die Ihr Problem verdeutlichen.</li>
+                <li>
+                    <p>Nutzen Sie bitte das Kontaktformular. Schildern Sie Ihr Anliegen. Gerne d&uuml;rfen Sie auch (mehrere) Dokumente anh&auml;ngen, die Ihr Problem verdeutlichen.</p>
+                    <form encType="multipart/form-data" method="POST" action="https://mailthis.to/scharfezunge" class="gh-form"> 
+                        <input type="hidden" name="_subject" value="Neue Kundenanfrage von scharfezunge.de">
+                        <input type="text" name="name" placeholder="Vorname Nachname" class="gh-box3d gh-box3d-blue gh-halfwidth">
+                        <input type="email" name="_replyto" placeholder="E-Mail@Adresse.de" class="gh-box3d gh-box3d-blue gh-halfwidth">
+                        <input type="file" name="file" placeholder="Anhänge" multiple class="gh-box3d gh-box3d-blue gh-halfwidth">
+                        <textarea name="message" placeholder="Bitte schildern Sie Ihr Anliegen..." class="gh-box3d gh-box3d-blue gh-fullwidth"></textarea>
+                        <input type="hidden" name="_honeypot" value="">
+                        <input type="hidden" name="_confirmation" value="Vielen Dank, Ihre Anfrage wird umgehend bearbeitet. Wir melden uns bei Ihnen!">
+                        <input type="hidden" name="_after" value="https://scharfezunge.de/#auftrag">
+                        <input type="submit" value="Anfrage senden" class="gh-box3d gh-box3d-blue">
+                    </form>
+                </li>
                 <li>Wir melden uns bei Ihnen und besprechen das weitere Vorgehen.</li>
-                <li>F&uuml;r eine Auftragserteilung, m&uuml;ssen Sie einen Betrag im Wert eines Stundensatzes per Vorkasse leisten.</li>
+                <li>Bei einer Auftragserteilung, m&uuml;ssen Sie zun&auml;chst einen Betrag im Wert eines Stundensatzes per Vorkasse leisten.</li>
                 <li>Im st&auml;ndigen Austausch mit Ihnen, f&uuml;hren wir den Auftrag aus.</li>
-                <li>Nach Ihrer finalen Freigabe, fassen wir etwaige zus&auml;tzlichen Aufw&auml;nde in einer Schlussrechnung zusammen, die von Ihnen zu begleichen ist. Sollten Sie keine Freigabe erteilen, so leisten wir Nacharbeit. Sollten Sie unzufrieden sein, so brechen wir den Auftrag ab und Sie erhalten eine Gutschrift.</li>
+                <li>Nach Ihrer finalen Freigabe, fassen wir zus&auml;tzlich angefallene Aufw&auml;nde (falls vorhanden) in einer Schlussrechnung zusammen, die von Ihnen zu begleichen ist. Sollten Sie keine Freigabe erteilen, so leisten wir Nacharbeit. Sollten Sie unzufrieden sein, so brechen wir den Auftrag ab und Sie erhalten eine Gutschrift.</li>
             </ol>
         </article>
 
