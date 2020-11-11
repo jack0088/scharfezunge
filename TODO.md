@@ -1,4 +1,3 @@
-- wcag a11y validation
 - cookie consent
 - impressum, datenschutz, datenverarbeitung
 - bessere cards preview bilder (imagebild?) für twitter, fb, insta
