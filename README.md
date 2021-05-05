@@ -6,4 +6,4 @@ Es gibt unzählige Möglichkeiten, wie wir uns gewinnbringend für Sie einsetzen
 
 Ihre Zufriedenheit und der Erfolg Ihrer Angelegenheit haben für uns oberste Priorität.
 
-[Besuchen Sie uns online](www.scharfezunge.de) und erfahren Sie mehr.
+[Besuchen Sie uns online](https://scharfezunge.de) und erfahren Sie mehr.
